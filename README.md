@@ -2,7 +2,7 @@
 
 ## Description
 
-I wrote this Study Guide to help bootcamp students to collate their notes and information they have learned on during the course in a logical and cohesive manner to make revision easier. I have learned how different coding languages can work together to create an end user experience that is engaging and adds value.
+This Study Guide was reacted to help bootcamp students to collate notes and information they have learned during the course in a logical and cohesive manner to make revision easier. I have learned how different coding languages can work together to create an end user experience that is engaging and adds value.
 
 
 ## Installation
